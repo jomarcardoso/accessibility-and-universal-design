@@ -13,17 +13,16 @@ Acreditar que fazer um produto especializado para pessoas com deficiência é al
 O uso do Desenho universal significa um grande passo na direção de um mundo cada vez mais inclusivo, que se adapta às diferentes habilidades e necessidades das pessoas e
 que exige delas cada vez menos esforço adaptativo. Isso exclui indivíduos da participação na vida social e também priva a sociedade da contribuição que poderia ser trazida por essas pessoas, seja na cultura ou na economia.
 
-<table>
-  <tr align="center">
-    <td><img src="https://user-images.githubusercontent.com/27368585/108396875-1e596280-71f6-11eb-8710-debf587c402e.png"></td>
-    <td><img src="https://user-images.githubusercontent.com/27368585/108396916-2a452480-71f6-11eb-8713-c538ab3b2dbc.png"></td>
-  </tr>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/27368585/108396875-1e596280-71f6-11eb-8710-debf587c402e.png">
+  <img src="https://user-images.githubusercontent.com/27368585/108396916-2a452480-71f6-11eb-8713-c538ab3b2dbc.png">
+</p>
   
-  <tr align="center" bgcolor="white">
-    <td bgcolor="white"><img src="https://user-images.githubusercontent.com/27368585/108397589-e0107300-71f6-11eb-9e38-eddb55e8f884.png"></td>
-    <td bgcolor="white"><img src="https://user-images.githubusercontent.com/27368585/108397057-56f93c00-71f6-11eb-8f53-1558c554ef49.png"></td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/27368585/108397589-e0107300-71f6-11eb-9e38-eddb55e8f884.png">
+  <img src="https://user-images.githubusercontent.com/27368585/108397057-56f93c00-71f6-11eb-8f53-1558c554ef49.png">
+</p>
 
 ## Referências
 
