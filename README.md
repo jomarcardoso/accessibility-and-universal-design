@@ -19,9 +19,9 @@ que exige delas cada vez menos esforço adaptativo. Isso exclui indivíduos da p
     <td><img src="https://user-images.githubusercontent.com/27368585/108396916-2a452480-71f6-11eb-8713-c538ab3b2dbc.png"></td>
   </tr>
   
-  <tr align="center">
-    <td><img src="https://user-images.githubusercontent.com/27368585/108397589-e0107300-71f6-11eb-9e38-eddb55e8f884.png"></td>
-    <td><img src="https://user-images.githubusercontent.com/27368585/108397057-56f93c00-71f6-11eb-8f53-1558c554ef49.png"></td>
+  <tr align="center" bgcolor="white">
+    <td bgcolor="white"><img src="https://user-images.githubusercontent.com/27368585/108397589-e0107300-71f6-11eb-9e38-eddb55e8f884.png"></td>
+    <td bgcolor="white"><img src="https://user-images.githubusercontent.com/27368585/108397057-56f93c00-71f6-11eb-8f53-1558c554ef49.png"></td>
   </tr>
 </table>
 
