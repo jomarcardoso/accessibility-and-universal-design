@@ -1,4 +1,4 @@
-# O Desenho Universal para a Acessibilidade
+<h1 align="center">O Desenho Universal para a Acessibilidade</h1>
 
 Um dos pretextos mais comum, das empresas, para a não adoção da acessibilidade em seus produtos vem da ideia que precisa ser algo feito "especialmente" para pessoas com deficiência, então, para a indústria, criar produtos para toda diversidade de público seria algo caro. Por isso, em 1987, o americano Ronald Mace, um arquiteto que usava cadeira de rodas e um respirador artificial, criou a terminologia Desenho Universal, que define que os produtos devam ser projetados para que possam ser utilizados pelo maior número de pessoas possíveis, sem necessidade de adaptação ou desenho especializado.
 
