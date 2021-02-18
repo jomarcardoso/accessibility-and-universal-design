@@ -5,7 +5,7 @@ Um dos pretextos mais comum, das empresas, para a não adoção da acessibilidad
 Estão de acordo com o Desenho universal, por exemplo, os ambientes que possuem rampas de acesso, banheiros e bebedores adaptados, fraldários, pisos podotáteis, elevadores com áudio e painéis em Braille, etc. outro exemplo são os filmes que possuem audiodescrição, legendas e tradução para LIBRAS.
 
 <div style="text-align: center">
-  ![image](https://user-images.githubusercontent.com/27368585/108396156-4dbb9f80-71f5-11eb-9afc-0f35066ee900.png)
+  <img src="https://user-images.githubusercontent.com/27368585/108396156-4dbb9f80-71f5-11eb-9afc-0f35066ee900.png">
 </div>
 
 Acreditar que fazer um produto especializado para pessoas com deficiência é algo que resolve "o problema", mas cria vários outros, como amanutenção dobrada, tanto do produto para pessoas "normais", como para pessoas com deficiência e as versões dos produtos divergem, algumas ficam defasadas ou até deixadas de lado. Desde a sua criação, um produto feito baseado nos conceitos do Desenho Universal, não precisará ser feito, adaptações, reconstrução ou até uma versão alternativa para as minorias.
