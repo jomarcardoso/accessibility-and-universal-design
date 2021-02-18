@@ -15,13 +15,13 @@ que exige delas cada vez menos esforço adaptativo. Isso exclui indivíduos da p
 
 
 <p align="center">
-  <img width="120" src="https://user-images.githubusercontent.com/27368585/108396875-1e596280-71f6-11eb-8710-debf587c402e.png">
-  <img width="120" src="https://user-images.githubusercontent.com/27368585/108396916-2a452480-71f6-11eb-8713-c538ab3b2dbc.png">
+  <img width="280" src="https://user-images.githubusercontent.com/27368585/108396875-1e596280-71f6-11eb-8710-debf587c402e.png">
+  <img width="280" src="https://user-images.githubusercontent.com/27368585/108396916-2a452480-71f6-11eb-8713-c538ab3b2dbc.png">
 </p>
   
 <p align="center">
-  <img width="120" src="https://user-images.githubusercontent.com/27368585/108397589-e0107300-71f6-11eb-9e38-eddb55e8f884.png">
-  <img width="120" src="https://user-images.githubusercontent.com/27368585/108397057-56f93c00-71f6-11eb-8f53-1558c554ef49.png">
+  <img width="280" src="https://user-images.githubusercontent.com/27368585/108397589-e0107300-71f6-11eb-9e38-eddb55e8f884.png">
+  <img width="280" src="https://user-images.githubusercontent.com/27368585/108397057-56f93c00-71f6-11eb-8f53-1558c554ef49.png">
 </p>
 
 ## Referências
