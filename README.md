@@ -13,6 +13,18 @@ Acreditar que fazer um produto especializado para pessoas com deficiência é al
 O uso do Desenho universal significa um grande passo na direção de um mundo cada vez mais inclusivo, que se adapta às diferentes habilidades e necessidades das pessoas e
 que exige delas cada vez menos esforço adaptativo. Isso exclui indivíduos da participação na vida social e também priva a sociedade da contribuição que poderia ser trazida por essas pessoas, seja na cultura ou na economia.
 
+<table>
+  
+</table>
+![image](https://user-images.githubusercontent.com/27368585/108396875-1e596280-71f6-11eb-8710-debf587c402e.png)
+
+![image](https://user-images.githubusercontent.com/27368585/108396916-2a452480-71f6-11eb-8713-c538ab3b2dbc.png)
+
+![image](https://user-images.githubusercontent.com/27368585/108396984-3b8e3100-71f6-11eb-9ecc-af7bfe81dbd7.png)
+
+![image](https://user-images.githubusercontent.com/27368585/108397057-56f93c00-71f6-11eb-8f53-1558c554ef49.png)
+
+
 ## Referências
 
 BRASIL, 2015, Lei n. 13.146, de 6 de jul. de 2015. Lei Brasileira de Inclusão da Pessoa com Deficiência. Presidência da República, Brasília, 6 jul. 2015. Disponível em:
