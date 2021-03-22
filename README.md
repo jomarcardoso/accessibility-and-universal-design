@@ -15,7 +15,7 @@ que exige delas cada vez menos esforço adaptativo. Isso exclui indivíduos da p
 
 
 <p align="center">
-  <img border="4" width="250" src="https://user-images.githubusercontent.com/27368585/108396875-1e596280-71f6-11eb-8710-debf587c402e.png">
+  <img width="250" src="https://user-images.githubusercontent.com/27368585/108396875-1e596280-71f6-11eb-8710-debf587c402e.png">
   <img width="250" src="https://user-images.githubusercontent.com/27368585/108396916-2a452480-71f6-11eb-8713-c538ab3b2dbc.png">
 </p>
   
