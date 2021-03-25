@@ -11,7 +11,7 @@ Estão de acordo com o Desenho universal, por exemplo, os ambientes que possuem 
 Acreditar que fazer um produto especializado para pessoas com deficiência é algo que resolve "o problema", mas cria vários outros, como amanutenção dobrada, tanto do produto para pessoas "normais", como para pessoas com deficiência e as versões dos produtos divergem, algumas ficam defasadas ou até deixadas de lado. Desde a sua criação, um produto feito baseado nos conceitos do Desenho Universal, não precisará ser feito, adaptações, reconstrução ou até uma versão alternativa para as minorias.
 
 O uso do Desenho universal significa um grande passo na direção de um mundo cada vez mais inclusivo, que se adapta às diferentes habilidades e necessidades das pessoas e
-que exige delas cada vez menos esforço adaptativo. Isso exclui indivíduos da participação na vida social e também priva a sociedade da contribuição que poderia ser trazida por essas pessoas, seja na cultura ou na economia.
+que exige delas cada vez menos esforço adaptativo, e, assim, evitar a exclusão de indivíduos da participação social e também da contribuição que poderia ser trazida por essas pessoas, seja na cultura ou na economia.
 
 
 <p align="center">
